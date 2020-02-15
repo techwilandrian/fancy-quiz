@@ -1,4 +1,5 @@
 # quiz
+Feel free to copy it.
 
 ## Project setup
 ```
